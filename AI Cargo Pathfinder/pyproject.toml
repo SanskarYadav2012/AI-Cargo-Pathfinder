@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ai-cargo-pathfinder"
+version = "1.0.0"
+description = "Autonomous Warehouse Robot Simulation — Panda3D + Bullet Physics"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+authors = [
+    {name = "AI Cargo Pathfinder Team"},
+]
+keywords = [
+    "panda3d", "bullet-physics", "robotics", "simulation",
+    "warehouse", "autonomous", "lidar", "pathfinding",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Topic :: Games/Entertainment :: Simulation",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = [
+    "panda3d>=1.10.14",
+]
+
+[project.scripts]
+ai-cargo-pathfinder = "main:main"
+
+[tool.setuptools.packages.find]
+include = ["core*"]

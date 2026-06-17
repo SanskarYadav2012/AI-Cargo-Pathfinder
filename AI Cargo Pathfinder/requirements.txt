@@ -1,0 +1,9 @@
+# ──────────────────────────────────────────────────────────────────────────────
+# requirements.txt — Python dependencies for AI Cargo Pathfinder
+# ──────────────────────────────────────────────────────────────────────────────
+# Panda3D game engine (includes Bullet physics bindings)
+panda3d>=1.10.14
+
+# Build / packaging (only needed for creating the .exe distributable)
+# Uncomment if you want to build the standalone executable:
+# nuitka>=2.0
