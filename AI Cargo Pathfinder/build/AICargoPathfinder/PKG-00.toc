@@ -1,0 +1,73 @@
+('E:\\Sample Projects of client\\Sample Games to attract the client\\Game '
+ 'maded using the Panda3D\\AI Cargo '
+ 'Pathfinder\\build\\AICargoPathfinder\\AICargoPathfinder.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'E:\\Sample Projects of client\\Sample Games to attract the client\\Game '
+   'maded using the Panda3D\\AI Cargo '
+   'Pathfinder\\build\\AICargoPathfinder\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'E:\\Sample Projects of client\\Sample Games to attract the client\\Game '
+   'maded using the Panda3D\\AI Cargo '
+   'Pathfinder\\build\\AICargoPathfinder\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'E:\\Sample Projects of client\\Sample Games to attract the client\\Game '
+   'maded using the Panda3D\\AI Cargo '
+   'Pathfinder\\build\\AICargoPathfinder\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'E:\\Sample Projects of client\\Sample Games to attract the client\\Game '
+   'maded using the Panda3D\\AI Cargo '
+   'Pathfinder\\build\\AICargoPathfinder\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'E:\\Sample Projects of client\\Sample Games to attract the client\\Game '
+   'maded using the Panda3D\\AI Cargo '
+   'Pathfinder\\build\\AICargoPathfinder\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'E:\\Sample Projects of client\\Sample Games to attract the client\\Game '
+   'maded using the Panda3D\\AI Cargo '
+   'Pathfinder\\build\\AICargoPathfinder\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\dell\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\dell\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\dell\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\dell\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\dell\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'C:\\Users\\dell\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('main',
+   'E:\\Sample Projects of client\\Sample Games to attract the client\\Game '
+   'maded using the Panda3D\\AI Cargo Pathfinder\\main.py',
+   'PYSOURCE')],
+ 'python314.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
